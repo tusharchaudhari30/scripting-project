@@ -43,6 +43,8 @@ chmod +x script.sh
 1. Tushar Chaudhari (19IT5010)
 2. Harshal Patil (19IT5006)
 3. Ashlesh Kurhade (19IT5007)
- For More information and help in Project Mail me chaudharitushar2077@gmail.com
+
+----
+For More information and help in Project Mail me chaudharitushar2077@gmail.com
   
   
