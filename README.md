@@ -24,9 +24,9 @@ cd scripting-project
 ```
 3. Add executable configuration to script and execute it.
 ```
-chmod +x script.sh
+chmod +x Script.sh
 
-./script.sh
+./Script.sh
 
 
 ```
