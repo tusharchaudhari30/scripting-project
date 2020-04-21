@@ -32,7 +32,7 @@ chmod +x Script.sh
 ```
 
 ## Project Brief Information
-  An environment variable is a dynamic-named value that can affect the way running processes will behave on a computer. They are part of the environment in which a process runs. For example, a running process can query the value of the TEMP environment variable to discover a suitable location to store temporary files, or the HOME or USERPROFILE variable to find the directory structure owned by the user running the process. If these environment variables are left unchecked these can make system vulnerable to attackers
+  An environment variable is a dynamic-named value that can affect the way running processes will behave on a computer. They are part of the environment in which a process runs. For example, a running process can query the value of the TEMP environment variable to discover a suitable location to store temporary files, or the HOME or USERPROFILE variable to find the directory structure owned by the user running the process. If these environment variables are left unchecked these can make system vulnerable to attackers.
   
 ## Screenshot
 ![Image](https://github.com/tusharchaudhari30/scripting-project/blob/master/Snapshots/wrongpath.png)
